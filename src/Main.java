@@ -20,6 +20,7 @@ public class Main {
         System.out.println("Digite o segundo número: ");
         n2 = sc.nextDouble();
 
+        //Declarando
         switch(operacao){
             case '+':
             resultado = n1 + n2;
